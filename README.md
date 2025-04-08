@@ -5,12 +5,6 @@ Desarrollado con ❤️ en Python + Tkinter.
 
 ---
 
-## 🖥️ Interfaz de la App
-
-![QR Generator Preview](qr_jucanet_1.png)
-
----
-
 ## 🚀 Características
 
 ✅ Interfaz intuitiva y minimalista  
